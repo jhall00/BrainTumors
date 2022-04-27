@@ -1,0 +1,6 @@
+ResNet
+Brian: Data preprocessing, model instantiation and training, plot evaluation results
+Mike: Evaluation and accuracy calculations
+DenseNet
+Jess: Training, data augmentation (set up model for evaluation)
+Sam + Gillian: Evaluations and Results (worked on code together)
