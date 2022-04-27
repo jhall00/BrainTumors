@@ -14,3 +14,5 @@ are two folders from the downloaded dataset, "Training" and "Testing".
 
 We have saved the models we used for DenseNet (The one with data aumentation is myModelDenseNet and the 
 one without is myModelDenseNet2)
+
+The ResNet model checkpoint saved as resNetModule.pt.zip
