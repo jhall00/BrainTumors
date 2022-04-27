@@ -6,10 +6,13 @@ Github link: https://github.com/jhall00/BrainTumors
 
 Download dataset from https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
-2 jupyter notebook files (one for ResNet, one for DenseNet)
+3 jupyter notebook files containing models (one for ResNet, one for DenseNet, one for LeNet)
+1 jupyter notebook file containing evaluation metrics (for DenseNet)
+1 jupyter notebook file containing thought process for a Multiscale CNN
 
 In the notebooks we loaded the data in from a directory named "BrainTumorData". Within that folder there 
 are two folders from the downloaded dataset, "Training" and "Testing". 
+
 
 
 We have saved the models we used for DenseNet (The one with data aumentation is myModelDenseNet and the 
