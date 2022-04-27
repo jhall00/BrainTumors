@@ -4,3 +4,4 @@ Mike: Evaluation and accuracy calculations
 DenseNet
 Jess: Training, data augmentation (set up model for evaluation)
 Sam + Gillian: Evaluations and Results (worked on code together)
+Gillian: remodel data to compare and optimize model results
